@@ -1,1 +1,1 @@
-# api-gateway
+# Discovery Server
